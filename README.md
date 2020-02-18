@@ -34,4 +34,5 @@ Vous avez reçu un lien pour l'assignment.
 - enregistrer les données : `commit`,
 - livrer le travail : `push`.
 
-
+## Commentaire
+- Fichier lu.
